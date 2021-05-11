@@ -1,2 +1,3 @@
-# Programacion-web-con-software-libre
-Curso Comunidad de Madrid - Programación web con software libre
+# IFCT092PO Programación web con software libre (20/1533)
+
+Curso Comunidad de Madrid
